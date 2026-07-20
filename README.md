@@ -2,7 +2,7 @@
 
 A Power BI dashboard analyzing sales performance, profit trends, and product/customer insights.
 
-![Sales Dashboard](assets/sales_dashboard.png)
+![Sales Dashboard](assets/Sales_Dashboard.png)
 
 ---
 
